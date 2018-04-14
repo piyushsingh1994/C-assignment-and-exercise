@@ -13,3 +13,4 @@ int main()
   printf("Sum of all first %d even numbers is=%d",n,sum );
 getch();
 }
+ 
